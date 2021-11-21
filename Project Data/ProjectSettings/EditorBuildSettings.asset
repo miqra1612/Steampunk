@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Main menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/First Clue.unity
+    guid: 93066a5f4e895754ea4c1a10686985e4
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Map.unity
+    guid: 4a3e839e4f68c4240bf78cdb48744a84
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Pub.unity
+    guid: a457a576310d21e4f857986a123d4220
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Cigar Room.unity
+    guid: 77e9bcdac7b9b03468df00321b71aba4
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Labyrinth.unity
+    guid: 0ee4b0a454e8a3f41b58581dc875ce3c
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Airship Inside.unity
+    guid: c3a7606dc48d77a4f9281e9012be9fa2
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Winner Room.unity
+    guid: 84a688f41420fde449b62218980dfc83
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Pub Inside.unity
+    guid: 38081740aca4a594585780b569035603
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Back Alley.unity
+    guid: 1062a307acd43ec45ba3e9e66b9268f5
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Inventor Office.unity
+    guid: dbcbd0e861c4a2a4d842cf8ed328b736
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Port.unity
+    guid: d2a35438023f5774bb8768214924e266
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Airship.unity
+    guid: 37e60ad1d37f88d429fc2e52f5fc15fe
+  - enabled: 1
+    path: Assets/Steampunk/Scenes/Outro Room.unity
+    guid: 837a5923b11a5ce4d993ff596a79c50b
+  m_configObjects: {}
